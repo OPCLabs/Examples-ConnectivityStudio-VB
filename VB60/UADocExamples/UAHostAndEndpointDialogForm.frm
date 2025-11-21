@@ -40,8 +40,8 @@ Option Explicit
 REM #region Example ShowDialog.Main
 REM This example shows how to let the user browse for a host (computer) and an endpoint of an OPC-UA server residing on it.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 

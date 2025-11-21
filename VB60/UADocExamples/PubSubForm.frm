@@ -163,8 +163,8 @@ REM
 REM In order to produce network messages for this example, run the UADemoPublisher tool. For documentation, see
 REM https://kb.opclabs.com/UADemoPublisher_Basics . In some cases, you may have to specify the interface name to be used.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -252,8 +252,8 @@ REM
 REM In order to produce network messages for this example, run the UADemoPublisher tool. For documentation, see
 REM https://kb.opclabs.com/UADemoPublisher_Basics . In some cases, you may have to specify the interface name to be used.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -364,8 +364,8 @@ REM
 REM In order to produce network messages for this example, run the UADemoPublisher tool. For documentation, see
 REM https://kb.opclabs.com/UADemoPublisher_Basics . In some cases, you may have to specify the interface name to be used.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -493,8 +493,8 @@ REM
 REM In order to produce network messages for this example, run the UADemoPublisher tool. For documentation, see
 REM https://kb.opclabs.com/UADemoPublisher_Basics . In some cases, you may have to specify the interface name to be used.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -598,8 +598,8 @@ REM
 REM In order to produce network messages for this example, run the UADemoPublisher tool. For documentation, see
 REM https://kb.opclabs.com/UADemoPublisher_Basics . In some cases, you may have to specify the interface name to be used.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -689,8 +689,8 @@ REM
 REM In order to produce network messages for this example, run the UADemoPublisher tool. For documentation, see
 REM https://kb.opclabs.com/UADemoPublisher_Basics . In some cases, you may have to specify the interface name to be used.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -826,8 +826,8 @@ REM work.
 REM - OpcLabs.MqttNet
 REM Refer to the documentation for more information.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -928,8 +928,8 @@ REM
 REM In order to produce network messages for this example, run the UADemoPublisher tool. For documentation, see
 REM https://kb.opclabs.com/UADemoPublisher_Basics . In some cases, you may have to specify the interface name to be used.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -1051,8 +1051,8 @@ REM
 REM The network messages for this example can be published e.g. using the UADemoPublisher tool - see
 REM https://kb.opclabs.com/How_to_publish_or_subscribe_to_secure_OPC_UA_PubSub_messages .
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -1138,8 +1138,8 @@ REM
 REM In order to produce network messages for this example, run the UADemoPublisher tool. For documentation, see
 REM https://kb.opclabs.com/UADemoPublisher_Basics . In some cases, you may have to specify the interface name to be used.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 

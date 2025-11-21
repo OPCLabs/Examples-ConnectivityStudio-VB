@@ -172,8 +172,8 @@ REM #region Example BrowseNodes.Main
 REM This example shows how to obtain all nodes under the "Simulation" branch of the address space. For each node, it displays
 REM whether the node is a branch or a leaf.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -212,8 +212,8 @@ REM #endregion Example BrowseNodes.Main
 REM #region Example BrowseProperties.Main
 REM This example shows how to enumerate all properties of an OPC item. For each property, it displays its Id and description.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -252,8 +252,8 @@ REM case with Timestamp property as implemented by the demo server. This behavio
 REM IEasyDAClient.ReadMultipleItemValues.Main.vbs shortly before this example, in order to obtain better property values. Your
 REM code may also subscribe to the items in order to assure that they remain active.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -311,8 +311,8 @@ REM #endregion Example GetMultiplePropertyValues.Main
 REM #region Example PullItemChanged.Main
 REM This example shows how to subscribe to item changes and obtain the events by pulling them.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -351,8 +351,8 @@ REM #endregion Example PullItemChanged.Main
 REM #region Example PullItemChanged.MultipleItems
 REM This example shows how to subscribe to changes of multiple items and obtain the item changed events by pulling them.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -422,8 +422,8 @@ REM #endregion Example PullItemChanged.MultipleItems
 REM #region Example ReadItem.Main
 REM This example shows how to read a single item, and display its value, timestamp and quality.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -450,8 +450,8 @@ REM #endregion Example ReadItem.Main
 REM #region Example ReadItemValue.Main
 REM This example shows how to read value of a single item, and display it.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -478,8 +478,8 @@ REM #endregion Example ReadItemValue.Main
 REM #region Example ReadMultipleItems.Main
 REM This example shows how to read 4 items at once, and display their values, timestamps and qualities.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -529,8 +529,8 @@ REM #endregion Example ReadMultipleItems.Main
 REM #region Example ReadMultipleItemValues.Main
 REM This example shows how to read values of 4 items at once, and display them.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -580,8 +580,8 @@ REM #endregion Example ReadMultipleItemValues.Main
 REM #region Example SubscribeItem.Main
 REM This example shows how to subscribe to changes of a single item and display the value of the item with each change.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -622,8 +622,8 @@ REM #endregion Example SubscribeItem.Main
 REM #region Example SubscribeMultipleItems.Main
 REM This example shows how to subscribe to changes of multiple items and display the value of the item with each change.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -692,8 +692,8 @@ REM #endregion Example SubscribeMultipleItems.Main
 REM #region Example WriteItem.Main
 REM This example shows how to write a value, timestamp and quality into a single item.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -716,8 +716,8 @@ REM #endregion Example WriteItem.Main
 REM #region Example WriteItemValue.Main
 REM This example shows how to write a value into a single item.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -740,8 +740,8 @@ REM #endregion Example WriteItemValue.Main
 REM #region Example WriteMultipleItems.Main
 REM This example shows how to write values, timestamps and qualities into 3 items at once.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
@@ -796,8 +796,8 @@ REM #endregion Example WriteMultipleItems.Main
 REM #region Example WriteMultipleItemValues.Main
 REM This example shows how to write values into 3 items at once.
 REM
-REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-OpcStudio/Latest/examples.html .
-REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-QuickOPC-VB .
+REM Find all latest examples here: https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/examples.html .
+REM OPC client and subscriber examples in Visual Basic on GitHub: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB .
 REM Missing some example? Ask us for it on our Online Forums, https://www.opclabs.com/forum/index ! You do not have to own
 REM a commercial license in order to use Online Forums, and we reply to every post.
 
